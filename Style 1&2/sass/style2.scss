@@ -1,0 +1,22 @@
+$bgsec:#D0EF84;
+$bgh1:#DE561C;
+$bgh2:#FDA831;
+$bgp:#F4D143;
+section{
+    background: $bgsec;
+    h1 {
+        background: $bgh1;
+       
+    }
+    h2{
+        background:$bgh2;
+    }
+    p{
+        background: $bgp;
+    }
+}
+footer {
+    p {
+        background: $bgp;
+    }
+}
